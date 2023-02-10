@@ -1,5 +1,5 @@
 # HTML - Portfolyo Sitesi
-Credit by. Maxi Codes
+Credit by. Mavi Codes
 
 Öncelikle Selamlar Hazırlamış Olduğum Portfolyo Sitesini Sizinle Paylaşıyorum.
 
